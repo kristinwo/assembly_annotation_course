@@ -65,7 +65,7 @@ The following scripts were used in the project:
 ## References
 Data used for this project can be found in:
 
-[Lian et al. (2024)] (https://www.nature.com/articles/s41588-024-01715-9): A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range 
+[Lian et al. (2024)] (https://www.nature.com/articles/s41588-024-01715-9) : A pan-genome of 69 Arabidopsis thaliana accessions reveals a conserved genome structure throughout the global species range 
 
-[Jiao and Schneeberger (2020)] (https://www.nature.com/articles/s41467-020-14779-y): Chromosome-level assemblies of multiple Arabidopsis genomes reveal hotspots of rearrangements with altered evolutionary dynamics
+[Jiao and Schneeberger (2020)](https://www.nature.com/articles/s41467-020-14779-y): Chromosome-level assemblies of multiple Arabidopsis genomes reveal hotspots of rearrangements with altered evolutionary dynamics
 
